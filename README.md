@@ -8,5 +8,6 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [Geeks For Geeks](https://www.geeksforgeeks.org/data-structures/)
 - [LeetCode - Practice DSA](https://www.leetcode.com)
 - [LeetCode75](https://leetcode.com/study-plan/leetcode-75/?progress=xxn0i2rs)
+- [DSA by Luv in C++](https://www.youtube.com/watch?v=OMcxQ3IY-qc)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Programmiz](https://www.programiz.com/)
