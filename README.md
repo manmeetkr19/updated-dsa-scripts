@@ -3,3 +3,4 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 
 # Important Links
 - [The-Algorithms - Collection of all Major Algorithms](https://the-algorithms.com/)
+- https://www.programiz.com/dsa
