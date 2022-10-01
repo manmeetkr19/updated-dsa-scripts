@@ -8,3 +8,4 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [Geeks For Geeks](https://www.geeksforgeeks.org/data-structures/)
 - [LeetCode - Practice DSA](https://www.leetcode.com)
 - [LeetCode75](https://leetcode.com/study-plan/leetcode-75/?progress=xxn0i2rs)
+- [techgeekbuzz - list of important DSA questions](https://www.techgeekbuzz.com/blog/category/data-structure/)
