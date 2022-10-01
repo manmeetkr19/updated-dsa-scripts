@@ -9,3 +9,4 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [LeetCode - Practice DSA](https://www.leetcode.com)
 - [LeetCode75](https://leetcode.com/study-plan/leetcode-75/?progress=xxn0i2rs)
 - [InterviewBit](https://www.interviewbit.com/)
+- [Programmiz](https://www.programiz.com/)
