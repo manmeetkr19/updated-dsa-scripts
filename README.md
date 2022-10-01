@@ -9,3 +9,6 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [LeetCode - Practice DSA](https://www.leetcode.com)
 - [LeetCode75](https://leetcode.com/study-plan/leetcode-75/?progress=xxn0i2rs)
 - [techgeekbuzz - list of important DSA questions](https://www.techgeekbuzz.com/blog/category/data-structure/)
+- [DSA by Luv in C++](https://www.youtube.com/watch?v=OMcxQ3IY-qc)
+- [InterviewBit](https://www.interviewbit.com/)
+- [Programmiz](https://www.programiz.com/)
